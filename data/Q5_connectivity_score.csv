@@ -1,0 +1,5 @@
+borough_name,route_count,total_stops,total_transfers,avg_hub_score,connectivity_score
+Manhattan,12,110,528,4.56,219.38
+Brooklyn,11,84,264,3.59,145.74
+Queens,4,24,24,3.50,46.30
+Bronx,2,10,16,3.33,30.87

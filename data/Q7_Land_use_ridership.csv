@@ -1,0 +1,6 @@
+land_use_type,station_count,total_ridership,avg_ridership_per_station,avg_hub_score,category
+Tourist,5,3064579,612915.80,4.00,Other
+Commercial,23,9354549,406719.52,3.87,Other
+Institutional,3,800489,266829.67,3.33,"Healthcare Focus"
+Mixed,10,2437072,243707.20,2.80,Other
+Residential,19,3481285,183225.53,2.53,Other

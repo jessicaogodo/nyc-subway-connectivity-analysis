@@ -1,0 +1,5 @@
+borough_name,total_ridership,connectivity_score,demand_supply_ratio,mismatch_level
+Queens,3036820,46.30,65590.06,"High Mismatch"
+Manhattan,9710839,219.38,44264.92,"Moderate Mismatch"
+Brooklyn,5579483,145.73,38286.44,"Moderate Mismatch"
+Bronx,810832,30.87,26266.02,"Moderate Mismatch"
